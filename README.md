@@ -15,7 +15,7 @@ This dataset is available in the following link: https://drive.google.com/file/d
 
 ## Citation
 If you use this dataset in your research or project, please cite it as follows:
-´´´
+```
 @misc{your-project-dataset,
   title={Your Project Name - Sample Dataset},
   author={Your Name},
@@ -40,6 +40,6 @@ If you use this dataset in your research or project, please cite it as follows:
   year={2021},
   publisher={Wiley Online Library}
 }
-´´´
+```
 ## License
 This dataset is released under the [license type, e.g., MIT License].
