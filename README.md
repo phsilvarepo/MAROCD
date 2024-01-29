@@ -46,4 +46,4 @@ If you use this dataset in your research or project, please cite it as follows:
 ```
 
 ## License
-This dataset is released under the [license type, e.g., MIT License].
+This dataset is available for research purposes but not for comercial use.
