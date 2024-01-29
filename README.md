@@ -6,7 +6,7 @@ This repository contains the MAROCD dataset for obstacle detection and classific
 # Data
 This dataset comprises 8636 annotated images. To assemble this dataset, other publicly available datasets were used, specifically the SMD and MID datasets, along with the development of a novel TEJO dataset. The distribution of the images in the dataset per source is available in the following images. As for the classes, this dataset segregates maritime obstacles into 8 classes: boat, vessel, ferry, kayak, buoy, sailboat, and other. In total, there are 57995 class instances, and the class distribution is shown in the following images.
 
-![Classes](Number of Instances per Class.png)
+![Classes!](Number of Instances per Class.png)
 
 # Citation
 If you use this dataset in your research or project, please cite it as follows:
