@@ -15,6 +15,7 @@ This dataset is available in the following link: https://drive.google.com/file/d
 
 ## Citation
 If you use this dataset in your research or project, please cite it as follows:
+
 ```
 @misc{your-project-dataset,
   title={Your Project Name - Sample Dataset},
@@ -23,11 +24,13 @@ If you use this dataset in your research or project, please cite it as follows:
   howpublished={\url{https://github.com/your-username/your-dataset-repo}},
 }
 
-@misc{your-project-dataset,
-  title={Your Project Name - Sample Dataset},
-  author={Your Name},
-  year={2024},
-  howpublished={\url{https://github.com/your-username/your-dataset-repo}},
+@misc{prasad2016video,
+  title={Video Processing from Electro-optical Sensors for Object Detection and Tracking in Maritime Environment: A Survey}, 
+  author={D. K. Prasad and D. Rajan and L. Rachmawati and E. Rajabaly and C. Quek},
+  year={2016},
+  eprint={1611.05842},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV}
 }
 
 @article{liu2021efficient,
@@ -41,5 +44,6 @@ If you use this dataset in your research or project, please cite it as follows:
   publisher={Wiley Online Library}
 }
 ```
+
 ## License
 This dataset is released under the [license type, e.g., MIT License].
