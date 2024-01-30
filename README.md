@@ -3,7 +3,7 @@
 ## Overview
 This repository contains the MAROCD dataset for obstacle detection and classification in maritime environments. The dataset is designed to provide the necessary data to achieve a robust CNN-based obstacle detector for maritime environments. The labels in this dataset are in the YOLO annotation format.
 
-![Dataset Overview](https://github.com/phsilvarepo/MAROCD/blob/main/Dataset%20Distribution.jpg)
+![Dataset Overview](https://github.com/phsilvarepo/MAROCD/blob/main/dataset.png)
 
 ## Data
 To assemble this dataset, other publicly available datasets were used, specifically the SMD and MID datasets, along with the development of the novel TEJO dataset. In result, this dataset is comprised with 8636 annotated images. The distribution of the images in the dataset per source is available in the following images. As for the classes, this dataset segregates maritime obstacles into 8 classes: Boat, Vessel, Ferry, Kayak, Buoy, Sailboat, and Other. In total, there are 57995 class instances, and the class distribution is shown in the following images.
