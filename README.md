@@ -17,8 +17,8 @@ This dataset is available in the following link: https://drive.google.com/file/d
 If you use this dataset in your research or project, please cite it as follows:
 
 ```
-@misc{Silca_MAROCD_2024,
-  author = {Silva. P},
+@misc{Silva_MAROCD_2024,
+  author = {P. Silva},
   doi = {10.5281/zenodo.10612077},
   month = {2},
   title = {{Maritime Obstacle Classification and Detection}},
