@@ -17,11 +17,14 @@ This dataset is available in the following link: https://drive.google.com/file/d
 If you use this dataset in your research or project, please cite it as follows:
 
 ```
-@misc{your-project-dataset,
-  title={Your Project Name - Sample Dataset},
-  author={Your Name},
-  year={2024},
-  howpublished={\url{https://github.com/your-username/your-dataset-repo}},
+@misc{Silca_MAROCD_2024,
+  author = {Silva. P},
+  doi = {10.5281/zenodo.10612077},
+  month = {2},
+  title = {{Maritime Obstacle Classification and Detection}},
+  url = {[https://github.com/phsilvarepo/MAROCD]},
+  version = {1.0},
+  year = {2024}
 }
 
 @misc{prasad2016video,
