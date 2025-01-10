@@ -1,4 +1,4 @@
-# Maritime Obtacle Detection and Classification Dataset (MAROCD)
+# Maritime Obstacle Detection and Classification Dataset (MAROCD)
 
 ## Overview
 This repository contains the MAROCD dataset for obstacle detection and classification in maritime environments. The dataset is designed to provide the necessary data to achieve a robust CNN-based obstacle detector for maritime environments. The labels in this dataset are in the YOLO annotation format.
